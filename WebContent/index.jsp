@@ -27,6 +27,7 @@
 		<h2>Formulário Kelvin Carvalho</h2>
 		
 		<form>
+			<a href="calc.jsp">Calculadora de vdd</a><br/>
 			<label for="res">Quanto é 2 + 2? </label>
 			<input type="text" id="res" name="res">
 			
